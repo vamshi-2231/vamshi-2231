@@ -19,13 +19,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-
-<a href="[vamshimamindla1779@gmail.com](https://www.linkedin.com/in/vamshi-mamindla-23aab42a6/)" target="blank"><img align="center"  src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="vamshi-2231" height="30" width="40" /></a>
-
-<a href="vamshimamindla1779@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" alt="vamshi-2231" height="30" width="40" /></a>
-
-
+  <a href="https://www.linkedin.com/in/vamshi-mamindla-23aab42a6/" target="_blank">
+    <img align="center" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="mailto:vamshimamindla1779@gmail.com" target="_blank">
+    <img align="center" src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" alt="Email" height="30" width="40" />
+  </a>
 </p>
+
 
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=vamshi-2231&show_icons=true" alt="Vamshi" /> 
