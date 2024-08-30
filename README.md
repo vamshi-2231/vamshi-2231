@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<h5>**vamshimamindla1779@gmail.com**<img align="center" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="vamshi-2231" height="30" width="40" /></a>
+<a href="[vamshimamindla1779@gmail.com](https://www.linkedin.com/in/vamshi-mamindla-23aab42a6/)" target="blank"><img align="center"  src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="vamshi-2231" height="30" width="40" /></a>
 
 <a href="vamshimamindla1779@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" alt="vamshi-2231" height="30" width="40" /></a>
 
