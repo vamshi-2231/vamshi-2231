@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://www.linkedin.com/in/vamshi-mamindla-23aab42a6/" target="blank"><img align="center" src="https://icons8.com/icon/13930/linkedin" alt="vamshi-2231" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vamshi-mamindla-23aab42a6/" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="vamshi-2231" height="30" width="40" /></a>
 
 </p>
 
