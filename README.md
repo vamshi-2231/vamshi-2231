@@ -28,6 +28,6 @@
 </p>
 
 
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=vamshi-2231&show_icons=true" alt="Vamshi" /> 
-</p>
+<!--<p align="center"> -->
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=vamshi-2231&show_icons=true" alt="Vamshi" />  -->
+<!-- </p> -->
